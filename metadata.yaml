@@ -1,0 +1,30 @@
+_repo: Less-than-kin_71674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alice Duer
+    alias: Duer, Alice
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '3939'
+    url: http://www.gutenberg.org/2009/agents/3939
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Duer_Miller
+description: ''
+gutenberg_issued: '2023-09-18'
+identifiers:
+  gutenberg: '71674'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn1iw9
+pgterms:marc905: 20211009043124miller
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHenry Holt and Company, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Less than kin
+url: http://www.gutenberg.org/ebooks/71674
